@@ -1,0 +1,14 @@
+body{
+  background-color: #37474F;
+}
+
+#card{
+  background-color: #F5F5F5;
+  margin: 5em 7% ;
+  color: #37474F;
+}
+
+.row{
+  padding: 0.5em 1em 1em 1em;
+}
+
